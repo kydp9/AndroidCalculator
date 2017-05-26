@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from X:\Calculator2\calculator\src\main\AndroidManifest.xml
+		INJECTED from X:\Calculator2\calculator\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from X:\Calculator2\calculator\src\main\AndroidManifest.xml
+		INJECTED from X:\Calculator2\calculator\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from X:\Calculator2\calculator\src\main\AndroidManifest.xml
+		INJECTED from X:\Calculator2\calculator\src\main\AndroidManifest.xml
+application
+ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:4:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kydp9\.android\build-cache\f1a81399169e748a982184fdadd463c92e318d53\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Kydp9\.android\build-cache\350741bd499d745c3dd679f414fc3057f7615d05\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kydp9\.android\build-cache\4844f6de7a800a0c6c51b5401a0f0c866e5aa766\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Kydp9\.android\build-cache\2ab466dfa81fc0f8c9bec630b732991b34f93aa2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Kydp9\.android\build-cache\7ebbadaab79fdad65bb064e824d3cbc79c821ac2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Kydp9\.android\build-cache\7ebafdbef213749e4ca530ea7a0240b51b159da8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Kydp9\.android\build-cache\14c80a2aaf6518b18e634664864418e0bc115fa5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Kydp9\.android\build-cache\f1f7af8d75b770696a89902769c60da95ddda092\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Kydp9\.android\build-cache\cbdf64e925f0e1fca9c311382b2cdca88bb564c9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Kydp9\.android\build-cache\c97d2a9ae3bb48faf9cc96649a3b40356da46e2e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Kydp9\.android\build-cache\b2ff2f3d9126b8b43ea3ed60318ecdf3aa628517\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:percent:25.3.1] C:\Users\Kydp9\.android\build-cache\5de78bdc09cbc291ce4f9e85c87b96bc37e91ec1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Kydp9\.android\build-cache\538772f64907d632c86fa554f4c7d898b80a3822\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:5:9-41
+	android:supportsRtl
+		ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:6:9-35
+	android:roundIcon
+		ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:5:42-87
+	android:allowBackup
+		ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:4:18-44
+	android:icon
+		ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:4:45-79
+	android:theme
+		ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:6:36-67
+activity#com.k66.calculator.MainActivity
+ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:7:9-14:20
+	android:name
+		ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:7:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:9:13-13:29
+action#android.intent.action.MAIN
+ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:10:17-69
+	android:name
+		ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from X:\Calculator2\calculator\src\main\AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from X:\Calculator2\calculator\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kydp9\.android\build-cache\f1a81399169e748a982184fdadd463c92e318d53\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Kydp9\.android\build-cache\350741bd499d745c3dd679f414fc3057f7615d05\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kydp9\.android\build-cache\4844f6de7a800a0c6c51b5401a0f0c866e5aa766\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Kydp9\.android\build-cache\2ab466dfa81fc0f8c9bec630b732991b34f93aa2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Kydp9\.android\build-cache\7ebbadaab79fdad65bb064e824d3cbc79c821ac2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Kydp9\.android\build-cache\6d25df61712243d11e6806d052eda6bd1e24aa1e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Kydp9\.android\build-cache\7ebafdbef213749e4ca530ea7a0240b51b159da8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Kydp9\.android\build-cache\14c80a2aaf6518b18e634664864418e0bc115fa5\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Kydp9\.android\build-cache\f1f7af8d75b770696a89902769c60da95ddda092\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Kydp9\.android\build-cache\cbdf64e925f0e1fca9c311382b2cdca88bb564c9\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Kydp9\.android\build-cache\c97d2a9ae3bb48faf9cc96649a3b40356da46e2e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Kydp9\.android\build-cache\b2ff2f3d9126b8b43ea3ed60318ecdf3aa628517\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:percent:25.3.1] C:\Users\Kydp9\.android\build-cache\5de78bdc09cbc291ce4f9e85c87b96bc37e91ec1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Kydp9\.android\build-cache\538772f64907d632c86fa554f4c7d898b80a3822\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Kydp9\.android\build-cache\350741bd499d745c3dd679f414fc3057f7615d05\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from X:\Calculator2\calculator\src\main\AndroidManifest.xml
+		INJECTED from X:\Calculator2\calculator\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from X:\Calculator2\calculator\src\main\AndroidManifest.xml
+		INJECTED from X:\Calculator2\calculator\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Kydp9\.android\build-cache\350741bd499d745c3dd679f414fc3057f7615d05\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kydp9\.android\build-cache\4844f6de7a800a0c6c51b5401a0f0c866e5aa766\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Kydp9\.android\build-cache\2ab466dfa81fc0f8c9bec630b732991b34f93aa2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Kydp9\.android\build-cache\7ebbadaab79fdad65bb064e824d3cbc79c821ac2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Kydp9\.android\build-cache\6d25df61712243d11e6806d052eda6bd1e24aa1e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Kydp9\.android\build-cache\7ebafdbef213749e4ca530ea7a0240b51b159da8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Kydp9\.android\build-cache\14c80a2aaf6518b18e634664864418e0bc115fa5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Kydp9\.android\build-cache\f1f7af8d75b770696a89902769c60da95ddda092\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Kydp9\.android\build-cache\cbdf64e925f0e1fca9c311382b2cdca88bb564c9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Kydp9\.android\build-cache\c97d2a9ae3bb48faf9cc96649a3b40356da46e2e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Kydp9\.android\build-cache\b2ff2f3d9126b8b43ea3ed60318ecdf3aa628517\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:percent:25.3.1] C:\Users\Kydp9\.android\build-cache\5de78bdc09cbc291ce4f9e85c87b96bc37e91ec1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Kydp9\.android\build-cache\538772f64907d632c86fa554f4c7d898b80a3822\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Kydp9\.android\build-cache\350741bd499d745c3dd679f414fc3057f7615d05\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Kydp9\.android\build-cache\350741bd499d745c3dd679f414fc3057f7615d05\output\AndroidManifest.xml:26:9-47
